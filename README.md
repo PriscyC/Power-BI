@@ -24,7 +24,7 @@ This report presents a comprehensive analysis of the order data from Food Deck ,
 # Walmart Sales Dashboard
 The report showcases a Walmart Sales Dashboard with several key visual elements that provide insights into various aspects of the data and understand the different factors that affect sales of the different branches. Here's a breakdown of the different components on the dashboard:
 - Naypyitaw leading in total sales.
-- Strong sales in product lines like Food and Beverages and Sports and Travel.
+- Strong sales in product lines like Food and Beverages and Fashion Accessories and Home and Lifestyle.
 - The most commonly used payment method is Cash.
 - Female customers tend to spend more per transaction.
 
