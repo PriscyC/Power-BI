@@ -28,6 +28,10 @@ The report showcases a Walmart Sales Dashboard with several key visual elements 
 - The most commonly used payment method is Cash.
 - Female customers tend to spend more per transaction.
 
+Feel free to explore my dashboard via link below:
+
+"https://app.powerbi.com/view?r=eyJrIjoiNjY0YWRlNWYtYzdjOS00M2I1LWIyOTYtYzM5OWE5ZGVlNDUzIiwidCI6ImQxZTUwZGJmLWNkMjMtNDg0ZS04MjAzLTNhMmMzM2EzZGU4MSJ9"
+
 # Taxi Operations Dashboard
 The Taxi Operations dashboard provides a comprehensive analysis of the company’s key performance indicators (KPIs), helping stakeholders make data-driven decisions to improve operations, increase revenue, and enhance customer satisfaction. The dashboard focuses on crucial aspects like revenue by location, weather impact, driver performance, surge pricing, and payment methods, offering a well-rounded view of the business.
 
@@ -46,6 +50,10 @@ Finally, the payment method analysis shows an almost equal split between card pa
 Conclusion
 
 The Taxi Operations dashboard provides valuable insights into key business drivers, such as revenue patterns, weather impact, and driver performance. By focusing on underperforming locations, optimizing weekend operations, preparing for adverse weather, and enhancing payment options, the organization can increase profitability and improve customer satisfaction. The dashboard enables the company to make informed decisions, driving growth and operational efficiency.
+
+Feel free to explore my dashboard via this link:
+
+"https://app.powerbi.com/view?r=eyJrIjoiNGU1ZmI3NjQtZjViMy00ODQ5LTgzYmUtYmViNjk0ZWI1M2VmIiwidCI6ImQxZTUwZGJmLWNkMjMtNDg0ZS04MjAzLTNhMmMzM2EzZGU4MSJ9" 
 
 # Store Sales Analysis Dashboard
 The "Store Sales Analysis Dashboard" provides a comprehensive summary of sales data, offering insights into different aspects of store performance, customer segments, and product categories.
@@ -78,5 +86,9 @@ Product and Shipping Insights
   significant sales noted in Small Box and other medium-sized packaging formats.
   
 This analysis suggests strong product demand across specific categories like Office Machines and Paper, with a clear pattern of higher sales in more populated regions and specific customer segments like Corporate and Home Office. Shipping costs are efficiently distributed among various methods, catering to different logistical needs.
+
+Feel free to explore my dashboard via link below:
+
+https://app.powerbi.com/view?r=eyJrIjoiZjYwNDdjMzctYjY5Ny00OWQ1LTk0NmYtNDBjMjI0NjAwZmVjIiwidCI6ImQxZTUwZGJmLWNkMjMtNDg0ZS04MjAzLTNhMmMzM2EzZGU4MSJ9
 
 
