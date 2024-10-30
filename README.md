@@ -18,9 +18,6 @@ Power BI was used to create an interactive dashboard that presents the findings 
 - Total Revenue by Top 10 Genres
 - Total Revenue and Vote Count by Top 5 Movies
 
-# Restuarants Performance Dashboard
-This report presents a comprehensive analysis of the order data from Food Deck , focusing on key performance metrics related to revenue, profit, and order status across various restaurants.The insights derived from this analysis will serve as a valuable resource for strategic decision-making, enabling us to refine our business practices, improve order management, and ultimately drive growth in the competitive marketplace.
-
 # Walmart Sales Dashboard
 The report showcases a Walmart Sales Dashboard with several key visual elements that provide insights into various aspects of the data and understand the different factors that affect sales of the different branches. Here's a breakdown of the different components on the dashboard:
 - Naypyitaw leading in total sales.
